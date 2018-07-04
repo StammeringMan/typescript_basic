@@ -1,0 +1,8 @@
+I have few doubts regarding the topic.
+
+    a. Is there a way to return all the properties of a class in a single method?
+       I mean, I want to access all the properties of a class in a single getter function, is it possible, 
+       because it seems, we can't use multiple return statement.
+    
+    b. Can I have less properties in Derived class than Super Class? 
+           
